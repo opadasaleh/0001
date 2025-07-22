@@ -9,6 +9,7 @@ function AboutPage() {
       <h1>hello welcome to AboutPage</h1>
       <br />
       <p>the page thast will discripe about the site</p>
+      <p>the page thast will discripe about the site</p>
     </>
   )
 }
