@@ -10,6 +10,7 @@ function AboutPage() {
       <br />
       <p>the page thast will discripe about the site</p>
       <p>the page thast will discripe about the site</p>
+      <p>the page thast will discripe about the site</p>
     </>
   )
 }
